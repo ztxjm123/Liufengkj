@@ -1797,7 +1797,7 @@ header {
 }
 
 header .top-nav {
-    height: 58px;
+    height: 80px;
     width: 100%;
     float: left;
     background-color: #F6F6F6;
@@ -1825,8 +1825,9 @@ header .top-nav #logo a.navbar-brand {
 }
 
 header .top-nav #logo a.navbar-brand img {
-    max-height: 30px;
+    max-height: 60px;
     width: auto;
+    margin-left: 3em;
 }
 
 @media screen and (max-width: 480px) {
