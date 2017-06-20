@@ -2,15 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b940caf-7a22-4ccd-8085-593122a8fe0c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/chengshi.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/fupin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/youxiang.png" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/life1.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/jingpin.png" afterPath="$PROJECT_DIR$/assets/img/jingpin.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/web_weizhuli.png" afterPath="$PROJECT_DIR$/assets/img/web_weizhuli.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/about.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/gongsi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/starff1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/starff2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/starff3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/starff4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/starff5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/starff6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/starff7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/starff8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/zhengshu1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/zhengshu10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/zhengshu11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/zhengshu12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/zhengshu2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/zhengshu3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/zhengshu4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/zhengshu5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/zhengshu6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/zhengshu7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/zhengshu8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/zhengshu9.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.html" afterPath="$PROJECT_DIR$/app.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/style.css" afterPath="$PROJECT_DIR$/assets/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web.html" afterPath="$PROJECT_DIR$/web.html" />
     </list>
@@ -33,8 +49,18 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+            <state relative-caret-position="1642">
+              <caret line="172" column="62" lean-forward="false" selection-start-line="172" selection-start-column="62" selection-end-line="172" selection-end-column="62" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="322" column="60" lean-forward="false" selection-start-line="322" selection-start-column="57" selection-end-line="322" selection-end-column="60" />
               <folding />
             </state>
           </provider>
@@ -62,17 +88,37 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="web.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="web.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="276" column="26" lean-forward="true" selection-start-line="276" selection-start-column="26" selection-end-line="276" selection-end-column="26" />
+            <state relative-caret-position="340">
+              <caret line="158" column="64" lean-forward="false" selection-start-line="158" selection-start-column="64" selection-end-line="158" selection-end-column="64" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="3780" column="27" lean-forward="false" selection-start-line="3780" selection-start-column="27" selection-end-line="3780" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>staff</find>
+      <find>jpg</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>starff</replace>
+      <replace>png</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
@@ -82,12 +128,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/recruit.html" />
-        <option value="$PROJECT_DIR$/about.html" />
-        <option value="$PROJECT_DIR$/assets/css/style.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/app.html" />
         <option value="$PROJECT_DIR$/web.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/about.html" />
       </list>
     </option>
   </component>
@@ -231,6 +277,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="3b940caf-7a22-4ccd-8085-593122a8fe0c" name="Default" comment="" />
@@ -241,20 +290,20 @@
       <workItem from="1497579342879" duration="15255000" />
       <workItem from="1497659956450" duration="905000" />
       <workItem from="1497776709140" duration="591000" />
-      <workItem from="1497942974981" duration="3949000" />
+      <workItem from="1497942974981" duration="7733000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20700000" />
+    <option name="totallyTimeSpent" value="24484000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14860907" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17423134" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -418,14 +467,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1180">
-          <caret line="59" column="8" lean-forward="false" selection-start-line="59" selection-start-column="8" selection-end-line="111" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/img/map.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -439,25 +480,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="1829" column="16" lean-forward="false" selection-start-line="1829" selection-start-column="16" selection-end-line="1829" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/img/logo_white@2x.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/img/logo_white.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/about.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -497,10 +525,33 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/paichu.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="3780" column="27" lean-forward="false" selection-start-line="3780" selection-start-column="27" selection-end-line="3780" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/gongsi.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/about.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        <state relative-caret-position="1642">
+          <caret line="172" column="62" lean-forward="false" selection-start-line="172" selection-start-column="62" selection-end-line="172" selection-end-column="62" />
           <folding />
         </state>
       </provider>
@@ -523,15 +574,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/paichu.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="276" column="26" lean-forward="true" selection-start-line="276" selection-start-column="26" selection-end-line="276" selection-end-column="26" />
+        <state relative-caret-position="340">
+          <caret line="158" column="64" lean-forward="false" selection-start-line="158" selection-start-column="64" selection-end-line="158" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="322" column="60" lean-forward="false" selection-start-line="322" selection-start-column="57" selection-end-line="322" selection-end-column="60" />
           <folding />
         </state>
       </provider>

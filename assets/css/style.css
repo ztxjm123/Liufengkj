@@ -1822,7 +1822,7 @@ header .top-nav #logo a.navbar-brand {
     height: 58px;
     line-height: 58px;
     padding: 15px 0;
-	padding:0px;
+    padding: 0px;
 }
 
 header .top-nav #logo a.navbar-brand img {
@@ -3770,13 +3770,15 @@ header nav.navbar.white #search-box .form-input :-ms-input-placeholder {
 
 #page-content #news .single-news article {
     background-color: white;
-    border-radius: 2px;
+    border-radius: 8px;
     transition: all .4s ease;
 }
 
 #page-content #news .single-news article img {
     max-width: 100%;
     display: block;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
 }
 
 #page-content #news .single-news article .content {
